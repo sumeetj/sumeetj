@@ -10,6 +10,8 @@ Onsite exposure and a better understanding of multi-culture enable me to work in
 
 The cross-domain experience enabled me to identify, validate and deliver required solutions faster that are scalable, reliable and ensures future-proofing.
 
+I am here to collaborate and innovate.
+
 
 Skills Acquired:
 
