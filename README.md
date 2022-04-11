@@ -1,6 +1,4 @@
-👋 Hi, I’m @sumeetj
-
-A brief About Me.
+👋 Hi, I’m Sumeet Jaggi
 
 A result-oriented professional with years of experience involved in Expert level assignments in Application, Design & Development with an organization of high repute. Abilities in studying state-of-the-art development tools, programming techniques & computing equipment, and maintaining personal networks.
 
@@ -13,7 +11,8 @@ Onsite exposure and a better understanding of multi-culture enable me to work in
 The cross-domain experience enabled me to identify, validate and deliver required solutions faster that are scalable, reliable and ensures future-proofing.
 
 
-Skills :
+Skills Acquired:
+
 Drupal  
 Web Development  
 Agile Application Development  
